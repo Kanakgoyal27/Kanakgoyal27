@@ -35,7 +35,6 @@
 ---
 
 ### 🛠️ Languages and Tools:
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -45,7 +44,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -56,16 +54,14 @@
 
 ---
 
-### 📈 Top Languages
-
+### 📈 Top Languages & Technologies
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,html,c,react,nodejs" />
 </p>
 
 ---
 
 ### 🏆 Achievements
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight" />
 </p>
